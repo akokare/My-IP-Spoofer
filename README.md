@@ -1,7 +1,6 @@
 # My-IP-Spoofer
 Python tool to spoof IP address
 
-
 There are many ways and many tools out there to spoof an IP address.
 
 hping and nmap for example.
